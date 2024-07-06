@@ -1,10 +1,10 @@
 {
     "name": "fpsunlocker",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "main": "src/mod.js",
     "license": "MIT",
     "author": "Mattdokn",
-    "akiVersion": "~3.8",
+    "sptVersion": "~3.9",
 	"loadBefore": [],
 	"loadAfter": [],
 	"incompatibilities": [],
